@@ -1,0 +1,9 @@
+.plane-link{
+    text-decoration: none;
+    color: black;
+}
+
+.my-sidebar{
+    position: fixed;
+    top: 76px;
+}

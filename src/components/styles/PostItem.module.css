@@ -1,0 +1,31 @@
+.likeButton {
+    color: blue;
+}
+
+.commentButton {
+
+}
+
+.shareButton {
+
+}
+
+.sendCommentButton {
+
+}
+
+.likeButton:hover {
+    cursor: pointer;
+}
+
+.commentButton:hover {
+    cursor: pointer;
+}
+
+.shareButton:hover {
+    cursor: pointer;
+}
+
+.sendCommentButton:hover {
+    cursor: pointer;
+}
